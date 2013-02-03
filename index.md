@@ -6,7 +6,7 @@ title: collabsite
 
 collabsite is a website that **anyone can edit**. The website itself is a git repository that is hosted on GitHub pages. This means that the website has a full history log, and can be updated by many people easily. I encourage everyone to contribute, let's build something cool!
 
-You can see what people have contributed at http://collabsite.github.com/s/. The collabsite GitHub repository is located at http://github.com/collabsite/collabsite.github.com.
+You can see what people have contributed at [collabsite.github.com/s/](http://collabsite.github.com/s/). The collabsite GitHub repository is located at [github.com/collabsite/collabsite.github.com](http://github.com/collabsite/collabsite.github.com).
 
 ## How to Contribute
 
