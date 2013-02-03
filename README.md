@@ -7,11 +7,9 @@ collabsite is a website that **anyone can edit**. The website itself is a git re
 I encourage everyone to contribute! Contributing is easy and follows GitHub's normal fork-modify-pull request workflow.
 
 1. On GitHub, fork this repository using your account.
-
 2. Using either the git CLI or GitHub's web interface, modify your repository and commit the changes.
     * For more information on using GitHub's web interface: [Creating new files](https://github.com/blog/1327-creating-files-on-github) | [Modifying existing files](https://github.com/blog/905-edit-like-an-ace)
 	* If you use the GitHub web interface for your changes, GitHub automatically commits the changes.
-	
 3. Once you have committed your changes, file a pull request on this repository. ([Direct link to file pull requests](https://github.com/collabsite/collabsite.github.com/pull/new/master).)
     * In your pull request, include a helpful title, and use the description to describe your changes.
 	
